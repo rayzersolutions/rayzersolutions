@@ -1,4 +1,4 @@
-![Cover](./assets/capa.png)
+![Cover](./assets/4c36f04f-fe6f-4cca-970d-d3cf6831575b.jpg)
 
 Automation developer focused on financial reconciliation and process reliability.
 
