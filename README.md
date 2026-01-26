@@ -1,16 +1,13 @@
-## Hi there 👋
+![Cover](./assets/capa.png)
 
-<!--
-**rayzersolutions/rayzersolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation developer focused on financial reconciliation and process reliability.
 
-Here are some ideas to get you started:
+I design and implement automations that reduce manual effort, increase traceability, and minimize operational risk in financial and data-intensive workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Primary areas of work:
+- Financial reconciliation and data consistency checks
+- Process automation using BotCity
+- Workflow orchestration and system integration with n8n
+- Data extraction, validation, and report generation
+
+I prioritize clarity, control, and predictability in environments where errors have real financial impact.
