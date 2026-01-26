@@ -1,4 +1,4 @@
-![Cover](./assets/cover-fintech.jpg)
+![Cover](./assets/cover-automation.jpg)
 
 Automation developer focused on financial reconciliation and process reliability.
 
